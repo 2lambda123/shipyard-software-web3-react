@@ -1,5 +1,5 @@
 {
-  "name": "@web3-react/authereum-connector",
+  "name": "@shipyardsoftware/authereum-connector",
   "publishConfig": {
     "access": "public"
   },

@@ -1,5 +1,5 @@
 {
-  "name": "@web3-react/trezor-connector",
+  "name": "@shipyardsoftware/trezor-connector",
   "publishConfig": {
     "access": "public"
   },

@@ -1,5 +1,5 @@
 {
-  "name": "@web3-react/squarelink-connector",
+  "name": "@shipyardsoftware/squarelink-connector",
   "publishConfig": {
     "access": "public"
   },

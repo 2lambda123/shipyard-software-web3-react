@@ -1,5 +1,5 @@
 {
-  "name": "@web3-react/lattice-connector",
+  "name": "@shipyardsoftware/lattice-connector",
   "publishConfig": {
     "access": "public"
   },

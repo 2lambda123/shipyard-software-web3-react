@@ -1,5 +1,5 @@
 {
-  "name": "@web3-react/walletconnect-connector",
+  "name": "@shipyardsoftware/walletconnect-connector",
   "publishConfig": {
     "access": "public"
   },
